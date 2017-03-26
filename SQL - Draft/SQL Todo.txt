@@ -1,0 +1,19 @@
+Trigger:
+
+- hoursLeft = hoursPlanned - hoursWorked für 'task' - Table
+- Daten löschen aus 'UserIp' wenn Realtime - timeStamp > 15 mins
+- Trigger für Update TimeStamp (das Zeitberechnung immer vom SQL Server!)
+
+
+Iteration:
+
+- Evaluation
+- Issues
+- Assesment
+
+Mit reinnehmen als Text oder eigene Tabellen?
+
+WorkItem -> targetIteration NOTNULL rausmachen?
+
+Permissions als BOOLEAN?
+
